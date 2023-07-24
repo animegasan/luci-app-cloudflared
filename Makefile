@@ -10,10 +10,10 @@ PKG_NAME:=luci-app-cloudflared
 PKG_VERSION:=1.0.1-20232407
 PKG_MAINTAINER:=<https://github.com/animegasan>
 
-LUCI_TITLE:=LuCi for Cloudflared
+LUCI_TITLE:=LuCI for Cloudflared
 LUCI_DEPENDS:=+cloudflared
 LUCI_PKGARCH:=all
-LUCI_DESCRIPTION:=LuCi support for Cloudflared
+LUCI_DESCRIPTION:=LuCI support for Cloudflared
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
