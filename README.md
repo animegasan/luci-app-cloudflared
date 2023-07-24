@@ -1,4 +1,4 @@
-# LuCI support for Cloudflared
+# LuCi support for Cloudflared
 
 ## Connection your OpenWrt with Cloudflared Zero Trust Tunnel via LuCi
 
