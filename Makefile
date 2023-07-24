@@ -7,7 +7,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-cloudflared
-PKG_VERSION:=1.0-20232407
+PKG_VERSION:=1.0.1-20232407
 PKG_MAINTAINER:=<https://github.com/animegasan>
 
 LUCI_TITLE:=LuCI for Cloudflared
