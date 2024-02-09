@@ -7,6 +7,8 @@
 
 ## Connection your OpenWrt with Cloudflared Zero Trust Tunnel via LuCI
 
+<a target="_blank" href="https://github.com/animegasan/luci-app-cloudflared/releases"><img src="https://img.shields.io/github/downloads/animegasan/luci-app-cloudflared/total?label=Total%20Download&labelColor=blue&style=for-the-badge"></a>
+
 ![image](https://github.com/animegasan/luci-app-cloudflared/assets/14136053/228b8017-ac13-47de-8ca8-e5a919c8d93e)
 
 ![image](https://github.com/animegasan/luci-app-cloudflared/assets/14136053/98daa68c-b1ac-4330-baa1-68dc176b0c9c)
